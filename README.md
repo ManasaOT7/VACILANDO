@@ -1,2 +1,2 @@
 # VACILANDO
-A Travelling Guide website with seasonal navigation and state navigation (south India)
+A Travelling Guide website with seasonal navigation and state navigation (south India) Web Application - A Travelling Guide – Tools & technologies used: HTML, CSS, JavaScript, Firebase ◦ Description: This project improves the Travel experience for users through an interactive features. ◦ Navigation: Created a comprehensive Seasonal guide to Destinations. ◦ Communication: Implemented real time Group chat feature. ◦ Blogging: Enabled users to contribute Blog Writing. ◦ Security: Ensure secure user registration and login functionality
